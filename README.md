@@ -6,4 +6,5 @@ An example of webpack configuration on existing react application
 - vender splitting
 - setup webpack-dev-server
 - react-router with code splitting
-- setup webpack production 
+- setup production mode of webpack (-p)
+- setup webpack-dev-middleware for development on server.js
